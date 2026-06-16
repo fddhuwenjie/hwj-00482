@@ -1,0 +1,7 @@
+# 忽略的文件和目录
+*.log
+*.tmp
+__pycache__/
+*.pyc
+node_modules/
+.env
